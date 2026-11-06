@@ -1,0 +1,15 @@
+{
+  "/home/runner/work/saber-landing/saber-landing/src/styles.css": {
+    "file": "assets/styles-BwoiJxrq.css",
+    "src": "/home/runner/work/saber-landing/saber-landing/src/styles.css"
+  },
+  "index.html": {
+    "file": "assets/index-CdlbvGfn.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "assets": [
+      "assets/styles-BwoiJxrq.css"
+    ]
+  }
+}
